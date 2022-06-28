@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/todo/static/css/main.54a5d8b1.css",
+    "main.js": "/todo/static/js/main.af96d84a.js",
+    "static/js/787.ee3c4dbe.chunk.js": "/todo/static/js/787.ee3c4dbe.chunk.js",
+    "static/media/estados-unidos.png": "/todo/static/media/estados-unidos.4d9d990626a3df96a265.png",
+    "static/media/espana.png": "/todo/static/media/espana.7ab20088ad372c62ab72.png",
+    "index.html": "/todo/index.html",
+    "main.54a5d8b1.css.map": "/todo/static/css/main.54a5d8b1.css.map",
+    "main.af96d84a.js.map": "/todo/static/js/main.af96d84a.js.map",
+    "787.ee3c4dbe.chunk.js.map": "/todo/static/js/787.ee3c4dbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a5d8b1.css",
+    "static/js/main.af96d84a.js"
+  ]
+}
